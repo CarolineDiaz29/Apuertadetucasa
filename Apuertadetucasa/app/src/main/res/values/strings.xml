@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">¡A puerta de tu casa!</string>
+    //Bienvenida
+    <string name="tvbienvenida">Bienvenido a la aplicación de venta de productos de salsamentaria</string>
+    <string name="btnInicioSesion">Inicio de Sesión</string>
+    <string name="btnRegistrar">Registrar</string>
+    //Inicio de sesión
+    <string name="tvInicio">Inicio de sesión</string>
+    <string name="txtemail">Username</string>
+    <string name="txtPassword">Password</string>
+    <string name="btnInicioSesionI">Inicio de Sesión</string>
+    //Registrar
+    <string name="tvRegistro">Registro de Usuarios</string>
+    <string name="btnAdminstrador">Adminstrador</string>
+    <string name="btnCliente">Cliente</string>
+    <string name="txtNombre">Nombre Completo</string>
+    <string name="txtApellido">Número Identificación</string>
+    <string name="txtTelefono">Numero de Telefono</string>
+    <string name="txtDireccion">Dirección</string>
+    <string name="txtemailR">Email</string>
+    <string name="txtPasswordR">Password</string>
+    <string name="btnRegitrarR">Registrar</string>
+    //Menú Cliente
+    <string name="tvNomCliente">Hola, cliente</string>
+    <string name="tvMenu">Menú de Productos</string>
+    <string name="tvProducto">Producto</string>
+    <string name="tvPrecio">Precio</string>
+    <string name="btnAgregar">Agregar</string>
+    <string name="tvCerrarP">Cerrar sesión</string>
+    //Carrito
+    <string name="tvNomClienteC">Hola, cliente</string>
+    <string name="tvCarrito">Carrito de Compras</string>
+    <string name="tvProductoC">Producto</string>
+    <string name="tvPrecioC">Precio</string>
+    <string name="tvValorC">Valor a Pagar: </string>
+    <string name="btnPedido">Realizar Pedido</string>
+    //Factura
+    <string name="tvNomClienteF">Hola, cliente</string>
+    <string name="tvFactura">Factura</string>
+    <string name="tvNFactura">N°Factura</string>
+    <string name="txtDireccionF">Digite la Dirreción</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="tvProductoF">Producto</string>
+    <string name="tvPrecioF">Precio</string>
+    <string name="tvRecargoF">Recargo por Domicilio</string>
+    <string name="tvPrecioRF">Precio</string>
+    <string name="tvValorF">Valor a Pagar: </string>
+    <string name="btnConfirmar">Confirmar</string>
+    <string name="tvContextoPago">Nota: Recuerde que el pago es CONTRAENTREGA</string>
+    //Menú Administrador
+    <string name="tvNomAdministradorA">Hola, Administrador</string>
+    <string name="btnAgregarA">Agregar Producto</string>
+    <string name="btnModifcarA">Modificar Product</string>
+    <string name="btnEliminarA">Eliminar Product</string>
+    <string name="btnCerrarA">Cerrar sesión</string>
+    //Registro Productos
+    <string name="tvRegistroR">Registro de Productos</string>
+    <string name="tvFotoR">Agregar Foto</string>
+    <string name="txtCodigoR">Codigo del Producto</string>
+    <string name="txtNombreR">Nombre del Producto</string>
+    <string name="txtPrecioR">Precio a la venta</string>
+    <string name="txtStockR">Stock</string>
+    <string name="btnConfirmarR">Registrar Producto</string>
+    //Modificar Productos
+    <string name="tvModificarM">Modificar Productos</string>
+    <string name="txtCodigoM">Codigo del Producto</string>
+    <string name="txtNombreM">Nombre del Producto</string>
+    <string name="txtPrecioM">Precio a la venta</string>
+    <string name="txtStockM">Stock</string>
+    <string name="btnConfirmarM">Modificar Producto</string>
+    //Eliminar Productos
+    <string name="tvEliminarP">Eliminar Productos</string>
+    <string name="btnEliminarP">Eliminar Producto</string>
+    //Ver Pedidos
+    <string name="tvAdministrador">Hola, Administrador</string>
+    <string name="tvPedidos">Pedidos</string>
+    <string name="tvProductoP">Producto</string>
+    <string name="tvPrecioP">Precio</string>
+    <string name="carrito_desc">Precio</string>
+</resources>
